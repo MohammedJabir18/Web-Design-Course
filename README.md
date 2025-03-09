@@ -26,7 +26,7 @@ Welcome to the **Web Design Course**! This repository is your gateway to creatin
 - **Pro Skills** 🚀: From coding to collaborating with Git/GitHub.
 
 <p align="center">
-  <img src="./Animations/coding_animation.gif" alt="Coding Animation" width="300">
+  <img src="./Animations/design_animation.gif" alt="Design Animation" width="300">
 </p>
 
 ---
