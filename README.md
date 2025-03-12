@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="#overview"><img src="https://img.shields.io/badge/Overview-📖-green?style=flat-square" alt="Overview"></a>
-  <a href="#lessons"><img src="https://img.shields.io/badge/Lessons-📚-orange?style=flat-square" alt="Lessons"></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Projects-🛠️-blue?style=flat-square" alt="Projects"></a>
-  <a href="#contributing"><img src="https://img.shields.io/badge/Contribute-🤝-purple?style=flat-square" alt="Contribute"></a>
+  <a href="**overview**"><img src="https://img.shields.io/badge/Overview-📖-green?style=flat-square" alt="Overview"></a>
+  <a href="**Lessons**"><img src="https://img.shields.io/badge/Lessons-📚-orange?style=flat-square" alt="Lessons"></a>
+  <a href="**projects**"><img src="https://img.shields.io/badge/Projects-🛠️-blue?style=flat-square" alt="Projects"></a>
+  <a href="**contributing**"><img src="https://img.shields.io/badge/Contribute-🤝-purple?style=flat-square" alt="Contribute"></a>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Explore our streamlined curriculum designed to take you from zero to hero! Each 
   <summary><strong>1. HTML Basics 🏗️</strong></summary>
   <p>Learn the building blocks of the web.</p>
   <ul>
-    <li>📂 <a href="./lessons/01-html-basics">Explore Lesson</a></li>
+    <li>📂 <a href="./Lessons/01-html-basics">Explore Lesson</a></li>
     <li>✨ Tags, structure, forms</li>
   </ul>
 </details>
@@ -48,7 +48,7 @@ Explore our streamlined curriculum designed to take you from zero to hero! Each 
   <summary><strong>2. CSS Fundamentals and Responsive Design 🎨</strong></summary>
   <p>Style your pages and make them shine on any device.</p>
   <ul>
-    <li>📂 <a href="./lessons/02-css-fundamentals-and-responsive-design">Explore Lesson</a></li>
+    <li>📂 <a href="./Lessons/02-css-fundamentals-and-responsive-design">Explore Lesson</a></li>
     <li>✨ Flexbox, Grid, Media Queries</li>
   </ul>
 </details>
@@ -57,7 +57,7 @@ Explore our streamlined curriculum designed to take you from zero to hero! Each 
   <summary><strong>3. JavaScript Essentials ⚡</strong></summary>
   <p>Add interactivity and bring your sites to life.</p>
   <ul>
-    <li>📂 <a href="./lessons/03-javascript-essentials">Explore Lesson</a></li>
+    <li>📂 <a href="./Lessons/03-javascript-essentials">Explore Lesson</a></li>
     <li>✨ DOM, Events, Functions</li>
   </ul>
 </details>
@@ -66,7 +66,7 @@ Explore our streamlined curriculum designed to take you from zero to hero! Each 
   <summary><strong>4. Tailwind CSS for Responsive Design 🌈</strong></summary>
   <p>Style smarter with utility-first CSS.</p>
   <ul>
-    <li>📂 <a href="./lessons/04-tailwind-css">Explore Lesson</a></li>
+    <li>📂 <a href="./Lessons/04-tailwind-css">Explore Lesson</a></li>
     <li>✨ Utilities, Responsive Design</li>
   </ul>
 </details>
@@ -75,7 +75,7 @@ Explore our streamlined curriculum designed to take you from zero to hero! Each 
   <summary><strong>5. Git & GitHub for Version Control 🌿</strong></summary>
   <p>Master code management and collaboration.</p>
   <ul>
-    <li>📂 <a href="./lessons/05-git-and-github">Explore Lesson</a></li>
+    <li>📂 <a href="./Lessons/05-git-and-github">Explore Lesson</a></li>
     <li>✨ Commits, Branches, Pull Requests</li>
   </ul>
 </details>
@@ -108,3 +108,23 @@ Put your skills to the test with these exciting projects! 🚀
 1. **Clone the Repo**:
    ```bash
    https://github.com/MohammedJabir18/Web-Design-Course.git
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See [contributing.md](/CONTRIBUTING.md) for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## Feedback
+
+If you have any feedback, please reach out to us at 
+📫 [Email](jabirahmedz111@gmail.com)
+🔗[LinkedIn](https://www.instagram.com/mohammedjabir__/)
+🌐 [Website](https://personal-portfolio-433f5.web.app/)
