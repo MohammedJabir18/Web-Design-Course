@@ -15,4 +15,4 @@ Follow these steps to get started:
 ### 2. Clone Your Fork 📥
 - Clone your forked repository to your local machine:
   ```bash
-https://github.com/MohammedJabir18/Web-Design-Course.git
+  https://github.com/MohammedJabir18/Web-Design-Course.git
