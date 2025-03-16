@@ -1,0 +1,30 @@
+body {
+    background-color: #2d2d2d;
+    color: white;
+}
+
+a {
+    color: aqua;
+}
+
+table {
+    margin: 20px;
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+caption {
+    font-weight: 700;
+    caption-side: bottom;
+    padding-top: 10px;
+}
+
+tbody, th, td {
+    border: 2px solid white;
+    padding: 20px;
+} 
+
+tr:nth-child(even) {
+    background-color: #cadee5;
+    color: black;
+}

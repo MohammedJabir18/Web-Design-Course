@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Images</title>
+</head>
+<body>
+    <div class="main-section">
+        <picture>
+            <source
+                srcset="
+                    Images\pic6.png 640w,
+                    Images\pic7.png 1024w   
+                "        
+                media="(max-width: 400px)"   
+            >
+
+            <!-- <img 
+                src="Images/noah-lyles-640.jpg" 
+                alt="sport"
+                width="640"
+            > -->
+        
+            <img 
+                src="Images/noah-lyles-640.jpg" 
+                alt="sport"
+                srcset="
+                    Images/noah-lyles-320-square.jpg 320w,
+                    Images/noah-lyles-640.jpg 640w, 
+                    Images/noah-lyles-1024.jpg 1024w,
+                    Images/noah-lyles-2048.jpg 2048w
+                "
+                sizes="(max-width: 1052px) 1024px, 640px"
+            >
+        </picture>
+    </div>
+
+
+</body>
+</html>
