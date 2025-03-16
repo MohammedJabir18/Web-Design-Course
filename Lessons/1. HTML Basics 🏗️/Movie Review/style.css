@@ -32,6 +32,34 @@ body {
     margin: 32px;
     padding: 20px;
     border-radius: 8px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 20px;
+    justify-items: center;
+}
+
+@media (max-width: 600px) {
+    .item {
+        grid-template-columns: 1fr;
+        grid-template-areas: "image" "content";
+    }
+
+    .item-content {
+        grid-area: content;
+    }
+
+    .item-img {
+        grid-area: image;
+    }
+
+    img {
+        width: 100%;
+    }
+}
+
+.item-img {
+    justify-self: end;
 }
 
 ul, ol, dl{
